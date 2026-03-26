@@ -1,0 +1,96 @@
+body
+{
+font-family: Arial;
+background: #f4f6ff;
+text-align: center;
+}
+
+.title
+{
+margin: 20px;
+color: #725529;
+}
+
+table
+{
+margin: auto;
+border-collapse: collapse;
+width: 80%;
+box-shadow: 0px 4px 10px rgba(17, 139, 80, 0.2);
+}
+
+td,th
+{
+padding: 12px;
+border: 1px solid #061602;
+}
+
+th
+{
+background: #3c4d42;
+color: white;
+}
+
+tr:hover
+{
+background: #f1f1f1;
+}
+
+/* Subject Colors */
+
+.maths
+{
+background: #c56161;
+}
+
+.phy
+{
+background: #183843;
+}
+
+.chem
+{
+background: #9a811e;
+}
+
+.english
+{
+background: #7f3cbe;
+}
+
+.phylab
+{
+background: #4866c8;
+}
+
+.che
+{
+background: #066406;
+}
+.hindi{
+    background: #183843;
+}
+.cplab{
+    background: #25cd74;
+}
+.chemlab{
+    background: #898156;
+}
+.seminar{
+    background: #333;
+}
+.workshop{
+    background:rebeccapurple ;
+}
+.sports{
+    background: #377e63;
+}
+.break
+{
+background: #9266a1;
+color: rgb(134, 44, 44);
+font-weight: bold;
+}
+.lunch{
+    background: #235e48;
+}
